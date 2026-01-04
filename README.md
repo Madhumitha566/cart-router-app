@@ -16,7 +16,6 @@ This project fulfills all the specified requirements by implementing the followi
     * Displays the overall **Total Cart Price** (Subtotal of all items).
     * Applies a **10% discount** to the final price.
 * **Routing:** Uses `react-router-dom` to ensure clean navigation between the **Product Page** and the **Cart Page**.
-* **State Management:** Utilizes React's Context API (recommended for this scale) to maintain a consistent cart state across all components.
 
 ## 🚀 Getting Started
 
