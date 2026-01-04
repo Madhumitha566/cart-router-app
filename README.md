@@ -17,10 +17,6 @@ This project fulfills all the specified requirements by implementing the followi
     * Applies a **10% discount** to the final price.
 * **Routing:** Uses `react-router-dom` to ensure clean navigation between the **Product Page** and the **Cart Page**.
 
-## 🚀 Getting Started
-
-Follow these steps to get a local copy of the project running.
-
 ### Prerequisites
 
 * **Node.js** (v18 or higher recommended)
